@@ -1,4 +1,4 @@
-from pyobigram.utils import sizeof_fmt,nice_time
+from techdev.utils import sizeof_fmt,nice_time
 import datetime
 import time
 import os
